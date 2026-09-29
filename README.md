@@ -1,3 +1,5 @@
+<img width="816" height="1056" alt="1" src="https://github.com/user-attachments/assets/402392f3-bf93-4f1f-9398-409c661af425" />
+
 # Online-Gaming-DBMS
 End-to-end relational database solution (3NF) for an online gaming platform. Built with SQL Server, complex queries, ERD modeling &amp; data integrity rules.
 # Online Gaming Database Management System (DBMS)
